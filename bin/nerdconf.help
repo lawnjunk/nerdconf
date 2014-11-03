@@ -1,0 +1,14 @@
+SYSJUNK: conf file update manager
+Options
+	Update Repo:
+		-u => copy current conf files into local_repo and sync with master
+	Install Configs:
+		-i => sync local repo to master and copy conf files from local_repo to appropiate locations
+	Add Config:
+		-a => add a conf file to sysjunk
+	Remove Config:
+		-r => remove a conf file from sysjunk
+	List Configs:
+		-l => list conf files tracked by sysjunk
+	Help:
+		-h, -help, --help => print this manual page
