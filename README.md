@@ -1,4 +1,4 @@
-Dconf
+NERDconf
 ========
 Never Ever Redo Duh Conf
 
